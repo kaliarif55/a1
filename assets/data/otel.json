@@ -1,0 +1,330 @@
+[
+  {
+    "de": "Willkommen in unserem Hotel.",
+    "tr": "Otelimize hoş geldiniz."
+  },
+  {
+    "de": "Wie kann ich helfen?",
+    "tr": "Nasıl yardımcı olabilirim?"
+  },
+  {
+    "de": "Haben Sie eine Reservierung?",
+    "tr": "Rezervasyonunuz var mı?"
+  },
+  {
+    "de": "Haben Sie Ihre Reservierung im Internet vorgenommen?",
+    "tr": "Rezervasyonu internetten mi yaptınız?"
+  },
+  {
+    "de": "Ich überprüfe es.",
+    "tr": "Kontrol ediyorum."
+  },
+  {
+    "de": "Unser Hotel ist voll.",
+    "tr": "Otelimiz doludur."
+  },
+  {
+    "de": "In der Sommersaison sind alle unsere Zimmer voll.",
+    "tr": "Yaz sezonunda tüm odalarımız doludur."
+  },
+  {
+    "de": "Es gibt zwei freie Zimmer in unserem Hotel.",
+    "tr": "Otelimizde iki boş odamız vardır."
+  },
+  {
+    "de": "Ich schlage vor, im Voraus zu reservieren.",
+    "tr": "Önceden rezervasyon yapmanızı tavsiye ederim."
+  },
+  {
+    "de": "Für wie viele Personen möchten Sie ein Zimmer?",
+    "tr": "Kaç kişilik oda istersiniz?"
+  },
+  {
+    "de": "Möchten Sie ein Einzelzimmer?",
+    "tr": "Tek kişilik oda mı istersiniz?"
+  },
+  {
+    "de": "Möchten Sie ein Doppelzimmer?",
+    "tr": "Çift kişilik oda mı istersiniz?"
+  },
+  {
+    "de": "Wir haben kein Zimmer mehr mit Blick auf die Straße.",
+    "tr": "Cadde tarafına bakan odamız kalmadı."
+  },
+  {
+    "de": "Ich kann Ihnen ein Zimmer geben, das auf den Hof schaut.",
+    "tr": "Size avluya bakan bir oda verebilirim."
+  },
+  {
+    "de": "Der Preis für ein Einzelzimmer beträgt 100 TL.",
+    "tr": "Tek kişilik oda fiyatımız 100 TL’dir."
+  },
+  {
+    "de": "Der Preis für ein Doppelzimmer beträgt 150 TL.",
+    "tr": "Çift kişilik oda fiyatımız 150 TL’dir."
+  },
+  {
+    "de": "Wie viele Tage werden Sie bleiben?",
+    "tr": "Kaç gün kalacaksınız?"
+  },
+  {
+    "de": "Kann ich bitte Ihren Reisepass bekommen?",
+    "tr": "Pasaportunuzu alabilir miyim?"
+  },
+  {
+    "de": "Kreditkarten sind gültig.",
+    "tr": "Kredi kartı geçerlidir."
+  },
+  {
+    "de": "Kann ich bitte Ihre Kreditkarte bekommen?",
+    "tr": "Kredi kartınızı alabilir miyim?"
+  },
+  {
+    "de": "Bitte geben Sie Ihre PIN-Nummer ein.",
+    "tr": "Lütfen şifrenizi tuşlayınız."
+  },
+  {
+    "de": "Hier ist Ihr Beleg.",
+    "tr": "Buyurun slipiniz."
+  },
+  {
+    "de": "Hier ist Ihre Rechnung.",
+    "tr": "Buyurun faturanız."
+  },
+  {
+    "de": "Bitte füllen Sie das Check-in-Formular aus und unterschreiben Sie es.",
+    "tr": "Lütfen giriş formunu doldurup imzalayınız."
+  },
+  {
+    "de": "Das Frühstück ist im Zimmerpreis enthalten.",
+    "tr": "Oda ücretine kahvaltı dahildir."
+  },
+  {
+    "de": "Ihre Zimmernummer ist 6037.",
+    "tr": "Oda numaranız 6037’dir."
+  },
+  {
+    "de": "Ihr Zimmer befindet sich im sechsten Stock.",
+    "tr": "Odanız 6. kattadır."
+  },
+  {
+    "de": "Wann möchten Sie geweckt werden?",
+    "tr": "Ne zaman uyandırılmak istersiniz?"
+  },
+  {
+    "de": "Der Frühstücksservice ist zwischen 07:00 und 11:00 Uhr.",
+    "tr": "Kahvaltı servisi 07:00-11:00 arasındadır."
+  },
+  {
+    "de": "Unser Restaurant ist von 12:00 bis 22:00 Uhr geöffnet.",
+    "tr": "Restaurantımız 12:00-22:00 saatlerinde açıktır."
+  },
+  {
+    "de": "Unser Pub ist von 21:00 bis 03:00 Uhr geöffnet.",
+    "tr": "Barımız 21:00-03:00 saatlerinde açıktır."
+  },
+  {
+    "de": "In jedem Zimmer gibt es eine Klimaanlage.",
+    "tr": "Her odada klima vardır."
+  },
+  {
+    "de": "Es gibt Zimmerservice.",
+    "tr": "Oda servisimiz mevcuttur."
+  },
+  {
+    "de": "Es gibt eine chemische Reinigung.",
+    "tr": "Kuru temizleme servisimiz mevcuttur."
+  },
+  {
+    "de": "Das Fitnessstudio befindet sich im Eingangsbereich.",
+    "tr": "Sağlık kulübü giriş kattadır."
+  },
+  {
+    "de": "Unser Fitnessstudio ist von 07:00 bis 22:00 Uhr geöffnet.",
+    "tr": "Sağlık kulübümüz 07:00-22:00 saatlerinde açıktır."
+  },
+  {
+    "de": "Es gibt einen geschlossenen Pool.",
+    "tr": "Kapalı yüzme havuzumuz vardır."
+  },
+  {
+    "de": "Die Tennisplätze befinden sich hinter dem Hotel.",
+    "tr": "Tenis kortları otelin arka bölümündedir."
+  },
+  {
+    "de": "Sie können „0“ wählen, um die Rezeption anzurufen.",
+    "tr": "Resepsiyonu aramak için '0'ı tuşlayabilirsiniz."
+  },
+  {
+    "de": "Unser Hotel hat kabelloses Internet.",
+    "tr": "Otelimizde kablosuz internet mevcuttur."
+  },
+  {
+    "de": "Es gibt eine Internetverbindung im Zimmer.",
+    "tr": "Odada internet bağlantısı mevcuttur."
+  },
+  {
+    "de": "Bevorzugen Sie eine Tageszeitung?",
+    "tr": "Günlük gazete ister misiniz?"
+  },
+  {
+    "de": "Welche Zeitung bevorzugen Sie?",
+    "tr": "Hangi gazeteyi tercih edersiniz?"
+  },
+  {
+    "de": "Ich werde Ihr Gepäck in Ihr Zimmer schicken.",
+    "tr": "Bagajlarınızı odanıza göndereceğim."
+  },
+  {
+    "de": "Ich werde Ihr Gepäck aus Ihrem Zimmer abholen lassen.",
+    "tr": "Bagajlarınızı odanızdan aldıracağım."
+  },
+  {
+    "de": "Ich hoffe, Sie sind zufrieden mit Ihrem Besuch.",
+    "tr": "Ziyaretinizden memnun kaldığınızı ümit ederim."
+  },
+  {
+    "de": "Check-out ist um 12:00 Uhr.",
+    "tr": "Otel çıkış saati 12:00’dir."
+  },
+  {
+    "de": "Dies ist die Rezeption.",
+    "tr": "Burası resepsiyon."
+  },
+  {
+    "de": "Ich werde einen Klimaservice in Ihr Zimmer schicken.",
+    "tr": "Odanıza klima servisi göndereceğim."
+  },
+  {
+    "de": "Sie können an der Information eine Stadtrundfahrt reservieren.",
+    "tr": "Şehir turu için danışmadan rezervasyon yaptırabilirsiniz."
+  },
+  {
+    "de": "Ich hoffe, Sie sind mit unserem Hotel zufrieden.",
+    "tr": "Umarım otelimizden memnun kalmışsınızdır."
+  },
+  {
+    "de": "Ihr Taxi wird in fünf Minuten kommen.",
+    "tr": "Taksiniz 5 dakika içinde gelecek."
+  },
+  {
+    "de": "Das Stadtzentrum ist fünfzehn Minuten von unserem Hotel entfernt.",
+    "tr": "Şehir merkezi otelimizden 15 dakika uzaktadır."
+  },
+  {
+    "de": "Hier ist unser Stadtplan.",
+    "tr": "Buyurun şehir planımız."
+  },
+  {
+    "de": "In dieser Gegend gibt es Museen.",
+    "tr": "Bu bölgede müzeler bulunmaktadır."
+  },
+  {
+    "de": "Hier gibt es Geschäfte zum Einkaufen.",
+    "tr": "Burada alışveriş dükkanları vardır."
+  },
+  {
+    "de": "Der Ort, an den Sie möchten, ist hier.",
+    "tr": "Gitmek istediğiniz yer buradadır."
+  },
+  {
+    "de": "Sie können mit dem Taxi ins Stadtzentrum fahren.",
+    "tr": "Şehir merkezine taksi ile gidebilirsiniz."
+  },
+  {
+    "de": "Sie können mit unserem Hotelservice ins Stadtzentrum fahren.",
+    "tr": "Şehir merkezine otel servisimizle gidebilirsiniz."
+  },
+  {
+    "de": "Der einfachste Weg zum Flughafen ist mit dem Taxi.",
+    "tr": "Havaalanına en kolay ulaşım taksi iledir."
+  },
+  {
+    "de": "Sie können mit der U-Bahn zum Flughafen fahren.",
+    "tr": "Havaalanına metro ile gidebilirsiniz."
+  },
+  {
+    "de": "Vom Hotel zum Flughafen sind es etwa 30 Minuten.",
+    "tr": "Otelimizden havaalanına yaklaşık 30 dakika sürer."
+  },
+  {
+    "de": "Ankunftstag",
+    "tr": "Varış günü"
+  },
+  {
+    "de": "Check-out-Tag",
+    "tr": "Çıkış günü"
+  },
+  {
+    "de": "Lobby",
+    "tr": "Lobi"
+  },
+  {
+    "de": "Gesundheitsclub",
+    "tr": "Sağlık kulübü"
+  },
+  {
+    "de": "Schwimmbad",
+    "tr": "Yüzme havuzu"
+  },
+  {
+    "de": "Garage",
+    "tr": "Garaj"
+  },
+  {
+    "de": "Parkplatz",
+    "tr": "Otopark"
+  },
+  {
+    "de": "Jacke",
+    "tr": "Ceket"
+  },
+  {
+    "de": "Hose",
+    "tr": "Pantolon"
+  },
+  {
+    "de": "Krawatte",
+    "tr": "Kravat"
+  },
+  {
+    "de": "Pullover",
+    "tr": "Kazak"
+  },
+  {
+    "de": "Hemd",
+    "tr": "Gömlek"
+  },
+  {
+    "de": "Kleid",
+    "tr": "Elbise"
+  },
+  {
+    "de": "Rock",
+    "tr": "Etek"
+  },
+  {
+    "de": "Nachthemd",
+    "tr": "Gece elbisesi"
+  },
+  {
+    "de": "Decke",
+    "tr": "Battaniye"
+  },
+  {
+    "de": "Bettdecke",
+    "tr": "Yorgan"
+  },
+  {
+    "de": "Kissen",
+    "tr": "Yastık"
+  },
+  {
+    "de": "Klimaanlage",
+    "tr": "Klima"
+  },
+  {
+    "de": "Heizkörper",
+    "tr": "Radyatör"
+  }
+]

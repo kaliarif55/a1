@@ -1,0 +1,60 @@
+[
+  { "de": "Hast Du Einen Termin?", "tr": "Randevunuz var mı?" },
+  { "de": "Welcher Teil Ihres Körpers Schmerzt?", "tr": "Nereniz ağrıyor?" },
+  { "de": "Wie Lange Hat Es Geschmerzt?", "tr": "Ne zamandan beri ağrıyor?" },
+  { "de": "Ich Gebe Ein Schmerzmittel", "tr": "Ağrı kesici veriyorum" },
+  { "de": "Bist Du Allergisch?", "tr": "Alerjiniz var mı?" },
+  { "de": "Bist Du Diabetiker?", "tr": "Diyabetli misiniz?" },
+  { "de": "Bist Du Schwanger?", "tr": "Hamile misiniz?" },
+  { "de": "Öffne Bitte Deinen Mund", "tr": "Ağzınızı açınız" },
+  { "de": "Welcher Zahn Von Dir Schmerzt?", "tr": "Hangi dişiniz ağrıyor?" },
+  { "de": "Ihr Zahn Muss Herausgezogen Werden", "tr": "Dişinizin çekilmesi gerekiyor" },
+
+  { "de": "Rauchen Sie?", "tr": "Sigara kullanıyor musunuz?" },
+  { "de": "Du Musst Aufhören Zu Rauchen", "tr": "Sigarayı bırakmalısınız" },
+
+  { "de": "Husten Bitte", "tr": "Öksürünüz lütfen" },
+  { "de": "Liegen", "tr": "Uzanınız" },
+
+  { "de": "Gibt Es Hier Schmerzen?", "tr": "Burada ağrı var mı?" },
+  { "de": "Verwenden Sie Dieses Arzneimittel Bitte", "tr": "Bu ilacı kullanınız" },
+
+  { "de": "Wie Fühlst Du Dich?", "tr": "Nasıl hissediyorsunuz?" },
+  { "de": "Du Musst Dich Entspannen", "tr": "Dinlenmeniz gerek" },
+  { "de": "Entspannen Sie Sich 1 Oder 2 Tage", "tr": "1–2 gün dinleniniz" },
+  { "de": "Ich Werde Einen Bericht Für 2 Tage Schreiben", "tr": "2 günlük rapor yazacağım" },
+
+  { "de": "Kopfschmerzen", "tr": "Baş ağrısı" },
+  { "de": "Zahnschmerzen", "tr": "Diş ağrısı" },
+  { "de": "Bauchschmerzen", "tr": "Karın ağrısı" },
+  { "de": "Magenschmerzen", "tr": "Mide ağrısı" },
+  { "de": "Muskelschmerzen", "tr": "Kas ağrısı" },
+
+  { "de": "Eine Erkältung Einfangen", "tr": "Soğuk algınlığı" },
+  { "de": "Grippe", "tr": "Grip" },
+
+  { "de": "Erkältung", "tr": "Nezle" },
+
+  { "de": "Verstauchter Knöchel", "tr": "Bilek burkulması" },
+  { "de": "Gebrochener Fuß", "tr": "Ayak kırığı" },
+  { "de": "Gebrochener Arm", "tr": "Kol kırığı" },
+  { "de": "Verletzter Arm", "tr": "Kol incinmesi" },
+  { "de": "Verletzter Muskel", "tr": "Kas zedelenmesi" },
+
+  { "de": "Rezept", "tr": "Reçete" },
+  { "de": "Verband", "tr": "Sargı" },
+  { "de": "Eine Wunde Verbinden", "tr": "Pansuman yapmak" },
+  { "de": "Heilen", "tr": "İyileştirmek / Tedavi etmek" },
+
+  { "de": "Doktor", "tr": "Doktor" },
+  { "de": "Krankenschwester", "tr": "Hemşire" },
+  { "de": "Schwesternhelferin", "tr": "Hasta bakıcı" },
+  { "de": "Krankenhaus", "tr": "Hastane" },
+
+  { "de": "Untersuchungsraum", "tr": "Muayenehane" },
+
+  { "de": "Notfall", "tr": "Acil durum" },
+  { "de": "Verkehrsunfall", "tr": "Trafik kazası" },
+  { "de": "Heimunfall", "tr": "Ev kazası" },
+  { "de": "Verletzung", "tr": "Yaralanma" }
+]

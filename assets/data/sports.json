@@ -1,0 +1,10 @@
+[
+  { "de": "Fussball", "tr": "Futbol" },
+  { "de": "Basketball", "tr": "Basketbol" },
+  { "de": "Laufen", "tr": "Kosmak" },
+  { "de": "Schwimmen", "tr": "Yuzmek" },
+  { "de": "Trainer", "tr": "Antrenor" },
+  { "de": "Spiel", "tr": "Oyun" },
+  { "de": "Sieg", "tr": "Galibiyet" },
+  { "de": "Niederlage", "tr": "Maglubiyet" }
+]

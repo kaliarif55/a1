@@ -1,0 +1,58 @@
+[
+  {
+    "de": "Bitte stellen Sie sich für das Ticket in die Warteschlange.",
+    "tr": "Tren bileti için lütfen kuyruğa giriniz."
+  },
+  {
+    "de": "Wohin möchten Sie fahren?",
+    "tr": "Nereye gitmek istiyorsunuz?"
+  },
+  {
+    "de": "An welchem Tag möchten Sie fahren?",
+    "tr": "Hangi gün gitmek istiyorsunuz?"
+  },
+  {
+    "de": "Für wie viele Personen möchten Sie ein Ticket?",
+    "tr": "Kaç kişilik bilet istiyorsunuz?"
+  },
+  {
+    "de": "Möchten Sie ein Einzelticket?",
+    "tr": "Tek yön bilet mi istiyorsunuz?"
+  },
+  {
+    "de": "Welche Klasse möchten Sie?",
+    "tr": "Hangi sınıftan bilet istiyorsunuz?"
+  },
+  {
+    "de": "Möchten Sie eine Hin- und Rückfahrkarte?",
+    "tr": "Gidiş–dönüş bileti mi istiyorsunuz?"
+  },
+  {
+    "de": "Möchten Sie einen Schlafwagen?",
+    "tr": "Yataklı vagon ister misiniz?"
+  },
+  {
+    "de": "Der Fahrpreis für eine Hin- und Rückfahrkarte beträgt 90,00 Türkische Lira.",
+    "tr": "Gidiş–dönüş bilet fiyatı 90,00 TL’dir."
+  },
+  {
+    "de": "Hier ist der Rest Ihres Geldes.",
+    "tr": "Buyurun paranızın üstü."
+  },
+  {
+    "de": "Hier ist Ihr Ticket.",
+    "tr": "Buyurun biletiniz."
+  },
+  {
+    "de": "Gibt es ein Restaurant im Zug?",
+    "tr": "Trende restoran var mı?"
+  },
+  {
+    "de": "Die Abfahrtszeit ist 13:30 Uhr, die Ankunftszeit ist 18:00 Uhr.",
+    "tr": "Kalkış saati 13:30, varış saati 18:00’dir."
+  },
+  {
+    "de": "Ihr Zug fährt vom 4. Bahnsteig ab.",
+    "tr": "Treniniz 4. perondan kalkacaktır."
+  }
+]

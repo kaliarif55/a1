@@ -1,0 +1,10 @@
+[
+  { "de": "Winter", "tr": "Kis" },
+  { "de": "Sommer", "tr": "Yaz" },
+  { "de": "Herbst", "tr": "Sonbahar" },
+  { "de": "Fruhling", "tr": "Ilkbahar" },
+  { "de": "Regen", "tr": "Yagmur" },
+  { "de": "Schnee", "tr": "Kar" },
+  { "de": "Wind", "tr": "Ruzgar" },
+  { "de": "Wolke", "tr": "Bulut" }
+]

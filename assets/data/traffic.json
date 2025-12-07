@@ -1,0 +1,10 @@
+[
+  { "de": "Auto", "tr": "Araba" },
+  { "de": "Strasse", "tr": "Sokak" },
+  { "de": "Ampel", "tr": "Trafik Lambasi" },
+  { "de": "Bus", "tr": "Otobus" },
+  { "de": "Zug", "tr": "Tren" },
+  { "de": "Fahrkarte", "tr": "Bilet" },
+  { "de": "Kreuzung", "tr": "Kavsak" },
+  { "de": "Stau", "tr": "Trafik Sikisikligi" }
+]

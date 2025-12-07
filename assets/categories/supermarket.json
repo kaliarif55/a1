@@ -1,0 +1,246 @@
+[
+  {
+    "de": "Ein Päckchen Würfelzucker",
+    "tr": "1 paket kesme şeker"
+  },
+  {
+    "de": "Eine Packung Teebeutel",
+    "tr": "1 paket poşet çay"
+  },
+  {
+    "de": "Reis",
+    "tr": "Pirinç"
+  },
+  {
+    "de": "Ein Kilo Gurken",
+    "tr": "1 kilo salatalık"
+  },
+  {
+    "de": "Ein Kilo Tomaten",
+    "tr": "1 kilo domates"
+  },
+  {
+    "de": "Kartoffeln",
+    "tr": "Patates"
+  },
+  {
+    "de": "Aubergine",
+    "tr": "Patlıcan"
+  },
+  {
+    "de": "Pfeffer",
+    "tr": "Biber"
+  },
+  {
+    "de": "Kürbis",
+    "tr": "Kabak"
+  },
+  {
+    "de": "Waschmittel",
+    "tr": "Deterjan"
+  },
+  {
+    "de": "Kaugummi",
+    "tr": "Sakız"
+  },
+  {
+    "de": "Schokolade",
+    "tr": "Çikolata"
+  },
+  {
+    "de": "200 g Käse",
+    "tr": "200 gram peynir"
+  },
+  {
+    "de": "200 g Oliven",
+    "tr": "200 gram zeytin"
+  },
+  {
+    "de": "Ein Glas Marmelade",
+    "tr": "1 kavanoz reçel"
+  },
+  {
+    "de": "Butter",
+    "tr": "Tereyağı"
+  },
+  {
+    "de": "Eine Packung Makkaroni",
+    "tr": "1 paket makarna"
+  },
+  {
+    "de": "Toilettenpapier",
+    "tr": "Tuvalet kâğıdı"
+  },
+  {
+    "de": "Honig",
+    "tr": "Bal"
+  },
+  {
+    "de": "Feige",
+    "tr": "İncir"
+  },
+  {
+    "de": "Kirsche",
+    "tr": "Kiraz"
+  },
+  {
+    "de": "Erdbeere",
+    "tr": "Çilek"
+  },
+  {
+    "de": "Banane",
+    "tr": "Muz"
+  },
+  {
+    "de": "Salami",
+    "tr": "Salam"
+  },
+  {
+    "de": "Würstchen",
+    "tr": "Sosis"
+  },
+  {
+    "de": "Senf",
+    "tr": "Hardal"
+  },
+  {
+    "de": "Pilz",
+    "tr": "Mantar"
+  },
+  {
+    "de": "Truthahn",
+    "tr": "Hindi"
+  },
+  {
+    "de": "Aprikose",
+    "tr": "Kayısı"
+  },
+  {
+    "de": "Fleisch",
+    "tr": "Et"
+  },
+  {
+    "de": "Lammfleisch",
+    "tr": "Kuzu eti"
+  },
+  {
+    "de": "Rindfleisch",
+    "tr": "Dana eti"
+  },
+  {
+    "de": "Kalbfleisch",
+    "tr": "Sığır eti"
+  },
+  {
+    "de": "Blaufisch",
+    "tr": "Lüfer"
+  },
+  {
+    "de": "Seezunge",
+    "tr": "Dil balığı"
+  },
+  {
+    "de": "Hähnchen",
+    "tr": "Tavuk"
+  },
+  {
+    "de": "Nuss",
+    "tr": "Fındık"
+  },
+  {
+    "de": "Pistazie",
+    "tr": "Antep fıstığı"
+  },
+  {
+    "de": "Knoblauch",
+    "tr": "Sarımsak"
+  },
+  {
+    "de": "Zwiebel",
+    "tr": "Soğan"
+  },
+  {
+    "de": "Spinat",
+    "tr": "Ispanak"
+  },
+  {
+    "de": "Karotte",
+    "tr": "Havuç"
+  },
+  {
+    "de": "Creme Caramel",
+    "tr": "Krem karamel"
+  },
+  {
+    "de": "Schokoladenkuchen",
+    "tr": "Çikolatalı pasta"
+  },
+  {
+    "de": "Blume",
+    "tr": "Çiçek"
+  },
+  {
+    "de": "Gemüse",
+    "tr": "Sebzeler"
+  },
+  {
+    "de": "Früchte",
+    "tr": "Meyveler"
+  },
+  {
+    "de": "Gefrorene Lebensmittel",
+    "tr": "Dondurulmuş gıdalar"
+  },
+  {
+    "de": "Sahne",
+    "tr": "Krema"
+  },
+  {
+    "de": "Einkaufstasche",
+    "tr": "Alışveriş çantası"
+  },
+  {
+    "de": "Kassenschlange",
+    "tr": "Kasa kuyruğu"
+  },
+  {
+    "de": "Barzahlung",
+    "tr": "Nakit ödeme"
+  },
+  {
+    "de": "Zahlung mit Kreditkarte",
+    "tr": "Kredi kartı ile ödeme"
+  },
+  {
+    "de": "Schnellkasse",
+    "tr": "Hızlı kasa"
+  },
+  {
+    "de": "Tüte",
+    "tr": "Poşet"
+  },
+  {
+    "de": "Diese Kasse ist geschlossen, bitte benutzen Sie die andere.",
+    "tr": "Bu kasa kapalı, lütfen diğer kasayı kullanınız."
+  },
+  {
+    "de": "Unser Geschäft schließt um 10:00 Uhr.",
+    "tr": "Mağazamız saat 10:00’da kapanacaktır."
+  },
+  {
+    "de": "Bitte gehen Sie zu den Kassen.",
+    "tr": "Lütfen kasalara doğru ilerleyiniz."
+  },
+  {
+    "de": "Vielen Dank für Ihr Interesse.",
+    "tr": "İlginize teşekkür ederiz."
+  },
+  {
+    "de": "Wir hoffen, Sie wiederzusehen.",
+    "tr": "Sizi tekrar bekleriz."
+  },
+  {
+    "de": "Vielen Dank, dass Sie uns bevorzugt haben.",
+    "tr": "Bizi tercih ettiğiniz için teşekkür ederiz."
+  }
+]

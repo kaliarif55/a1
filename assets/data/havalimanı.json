@@ -1,0 +1,90 @@
+[
+  { "de": "Ihr Ticket Und Ihren Reisepass Bitte", "tr": "Bilet ve pasaportunuzu lütfen." },
+
+  { "de": "Möchten Sie Einen Gang- Oder Einen Fensterplatz?", "tr": "Koridor mu cam kenarı mı istersiniz?" },
+
+  { "de": "Ihre Gate-Nummer Ist 276", "tr": "Kapınız 276." },
+
+  { "de": "Die Zeit Zum Gate Gehen Ist 10:30 Uhr", "tr": "Kapıya gidiş saatiniz 10:30." },
+
+  { "de": "Guten Flug", "tr": "İyi uçuşlar." },
+
+  { "de": "Ihre Bordkarte Bitte", "tr": "Uçuş kartınız lütfen." },
+
+  { "de": "Legen Sie Bitte Ihr Handgepäck In Die Röntgenmaschine", "tr": "El bagajınızı röntgen cihazına bırakınız." },
+
+  { "de": "Schalten Sie Bitte Ihr Handy Aus", "tr": "Cep telefonunuzu kapatınız." },
+
+  { "de": "Bitte Ziehen Sie Ihre Stiefel Aus", "tr": "Çizmelerinizi çıkartınız." },
+
+  { "de": "Bitte Nehmen Sie Ihren Gürtel Ab", "tr": "Kemerinizi çıkartınız." },
+
+  { "de": "Legen Sie Ihre Metallgegenstände In Die Röntgenmaschine", "tr": "Metal eşyalarınızı röntgen cihazına bırakınız." },
+
+  { "de": "Bitte Gehen Sie Noch Einmal Durch", "tr": "Lütfen tekrar geçiniz." },
+
+  { "de": "Nehmen Sie Ihren Laptop Aus Der Tasche", "tr": "Dizüstü bilgisayarınızı çantadan çıkartınız." },
+
+  { "de": "Bitte Strecken Sie Ihre Arme Und Beine Zur Seite", "tr": "Kollarınızı ve bacaklarınızı yana açınız." },
+
+  { "de": "Bitte Hören Sie Die Sicherheitsanweisungen Genau An", "tr": "Lütfen güvenlik açıklamalarını dikkatle dinleyiniz." },
+
+  { "de": "Vielen Dank, Dass Sie Uns Gewählt Haben", "tr": "Bizi tercih ettiğiniz için teşekkür ederiz." },
+
+  { "de": "Wir Wünschen Ihnen Einen Angenehmen Flug Und Hoffen, Sie Wiederzusehen", "tr": "İyi uçuşlar dileriz ve sizi tekrar görmeyi umarız." },
+
+  { "de": "Ihren Reisepass Bitte", "tr": "Pasaportunuz lütfen." },
+
+  { "de": "Was Ist Der Grund Ihrer Reise?", "tr": "Seyahat sebebiniz nedir?" },
+
+  { "de": "Wie Viele Tage Werden Sie Bleiben?", "tr": "Kaç gün kalacaksınız?" },
+
+  { "de": "Wo Werden Sie Übernachten?", "tr": "Nerede kalacaksınız?" },
+
+  { "de": "Bitte Füllen Sie Dieses Formular Aus", "tr": "Lütfen bu formu doldurunuz." },
+
+  { "de": "Sie Können Mit Dem Bus In Die Innenstadt Fahren", "tr": "Şehir merkezine otobüs ile gidebilirsiniz." },
+
+  { "de": "Die Bushaltestelle Befindet Sich Draußen Auf Der Linken Seite", "tr": "Otobüs servisi dışarıda sol taraftadır." },
+
+  { "de": "Alle 15 Minuten Fährt Ein Shuttle In Die Innenstadt", "tr": "Şehir merkezine her 15 dakikada bir servis vardır." },
+
+  { "de": "Alle 5 Minuten Gibt Es Eine U-Bahn In Die Innenstadt", "tr": "Şehir merkezine her 5 dakikada bir metro vardır." },
+
+  { "de": "Bushaltestelle", "tr": "Otobüs durağı" },
+
+  { "de": "Taxistand", "tr": "Taksi durağı" },
+
+  { "de": "Autovermietung", "tr": "Araba kiralama ofisi" },
+
+  { "de": "Hotelreservierungsbüro", "tr": "Otel rezervasyon ofisi" },
+
+  { "de": "Information", "tr": "Danışma" },
+
+  { "de": "Treffpunkt / Bereich", "tr": "Buluşma noktası" },
+
+  { "de": "Inlandsankünfte", "tr": "İç hatlar geliş" },
+  { "de": "Inlandsabreise", "tr": "İç hatlar gidiş" },
+
+  { "de": "Auslandsankünfte", "tr": "Dış hatlar geliş" },
+  { "de": "Auslandsabreise", "tr": "Dış hatlar gidiş" },
+
+  { "de": "Bordkarte", "tr": "Uçuş kartı" },
+  { "de": "Flugticket", "tr": "Uçak bileti" },
+
+  { "de": "Ankündigung", "tr": "Anons" },
+
+  { "de": "Gate", "tr": "Kapı" },
+
+  { "de": "Wartezimmer / Aufenthaltsraum", "tr": "Bekleme odası / salonu" },
+
+  { "de": "Flugzeit", "tr": "Uçuş zamanı" },
+  { "de": "Flugzeug", "tr": "Uçak" },
+
+  { "de": "Stewardess", "tr": "Hostes" },
+  { "de": "Steward", "tr": "Erkek host" },
+
+  { "de": "Kapitän", "tr": "Kaptan" },
+
+  { "de": "Flughafen", "tr": "Havaalanı" }
+]

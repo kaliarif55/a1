@@ -1,0 +1,10 @@
+[
+  { "de": "Zimmer", "tr": "Oda" },
+  { "de": "Schlussel", "tr": "Anahtar" },
+  { "de": "Reservierung", "tr": "Rezervasyon" },
+  { "de": "Rezeption", "tr": "Resepsiyon" },
+  { "de": "Frustuck", "tr": "Kahvalti" },
+  { "de": "Auschecken", "tr": "Cikis" },
+  { "de": "Klimaanlage", "tr": "Klima" },
+  { "de": "Handtuch", "tr": "Havlu" }
+]

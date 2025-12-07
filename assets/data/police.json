@@ -1,0 +1,10 @@
+[
+  { "de": "Polizei", "tr": "Polis" },
+  { "de": "Notruf", "tr": "Acil Cagri" },
+  { "de": "Ausweis", "tr": "Kimlik" },
+  { "de": "Zeuge", "tr": "Sahit" },
+  { "de": "Unfall", "tr": "Kaza" },
+  { "de": "Diebstahl", "tr": "Hirsizlik" },
+  { "de": "Festnahme", "tr": "Tutuklama" },
+  { "de": "Bericht", "tr": "Rapor" }
+]

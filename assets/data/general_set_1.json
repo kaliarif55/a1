@@ -1,0 +1,322 @@
+[
+  {
+    "de": "Hallo",
+    "tr": "Merhaba"
+  },
+  {
+    "de": "Herzlich Willkommen",
+    "tr": "Hoş geldiniz"
+  },
+  {
+    "de": "Auf Wiedersehen",
+    "tr": "Hoşça kalın"
+  },
+  {
+    "de": "Guten Morgen",
+    "tr": "Günaydın"
+  },
+  {
+    "de": "Haben Sie Einen Guten Tag",
+    "tr": "İyi günler"
+  },
+  {
+    "de": "Guten Abend",
+    "tr": "İyi akşamlar"
+  },
+  {
+    "de": "Gute Nacht",
+    "tr": "İyi geceler"
+  },
+  {
+    "de": "Auf Wiedersehen",
+    "tr": "Güle güle"
+  },
+  {
+    "de": "Auf Wiedersehen",
+    "tr": "Allaha ısmarladık"
+  },
+  {
+    "de": "Heute",
+    "tr": "Bugün"
+  },
+  {
+    "de": "Heute Morgen",
+    "tr": "Bu sabah"
+  },
+  {
+    "de": "Heute Abend",
+    "tr": "Bu akşam"
+  },
+  {
+    "de": "Heute Nacht",
+    "tr": "Bu gece"
+  },
+  {
+    "de": "Gestern",
+    "tr": "Dün"
+  },
+  {
+    "de": "Vorgestern",
+    "tr": "Önceki gün"
+  },
+  {
+    "de": "Gestern Nacht",
+    "tr": "Dün gece"
+  },
+  {
+    "de": "Morgen",
+    "tr": "Sabah"
+  },
+  {
+    "de": "Am Mittag",
+    "tr": "Öğlen"
+  },
+  {
+    "de": "Nachmittag",
+    "tr": "Öğleden sonra"
+  },
+  {
+    "de": "Abend",
+    "tr": "Akşam"
+  },
+  {
+    "de": "Nacht",
+    "tr": "Gece"
+  },
+  {
+    "de": "Herr",
+    "tr": "Bay"
+  },
+  {
+    "de": "Frau",
+    "tr": "Bayan"
+  },
+  {
+    "de": "Baby",
+    "tr": "Bebek"
+  },
+  {
+    "de": "Kind",
+    "tr": "Çocuk"
+  },
+  {
+    "de": "Jung",
+    "tr": "Genç"
+  },
+  {
+    "de": "Alt",
+    "tr": "Yaşlı"
+  },
+  {
+    "de": "Verheiratet",
+    "tr": "Evli"
+  },
+  {
+    "de": "Single",
+    "tr": "Bekar"
+  },
+  {
+    "de": "Geschieden",
+    "tr": "Boşanmış"
+  },
+  {
+    "de": "Ich Heiße Ayse",
+    "tr": "Benim adım Ayşe"
+  },
+  {
+    "de": "Wie Heißen Sie?",
+    "tr": "Sizin adınız nedir?"
+  },
+  {
+    "de": "Freut Mich, Dich Kennenzulernen ",
+    "tr": "Sizi tanıdığıma Memnun oldum"
+  },
+  {
+    "de": "Wie Geht's? / Wie Geht Es Ihnen?",
+    "tr": "Nasılsınız?"
+  },
+  {
+    "de": "Gut Danke Und Dir?",
+    "tr": "İyiyim, teşekkür ederim, ya siz?"
+  },
+  {
+    "de": "Bist Du Single? ",
+    "tr": "Bekar mısınız?"
+  },
+  {
+    "de": "Was Arbeitest Du?",
+    "tr": "Ne iş yapıyorsunuz?"
+  },
+  {
+    "de": "Wie Lange Sie Diesen Job Gemacht?",
+    "tr": "Kaç senedir bu işi yapıyorsunuz?"
+  },
+  {
+    "de": "Wo Wohnst Du?",
+    "tr": "Nerede yaşıyorsunuz?"
+  },
+  {
+    "de": "Wie Viele Brüder Oder Schwestern Hast Du?",
+    "tr": "Kaç kardeşsiniz?"
+  },
+  {
+    "de": "Wie Alt Sind Sie?",
+    "tr": "Yaşınız?"
+  },
+  {
+    "de": "Welchen Sport Machst Du?",
+    "tr": " Hangi Sporu yapıyorsunuz?"
+  },
+  {
+    "de": "Du Bist Wunderschön",
+    "tr": "Çok güzelsiniz"
+  },
+  {
+    "de": "Deine Augen Sind Sehr Schön",
+    "tr": " Gözleriniz çok güzel"
+  },
+  {
+    "de": "Ich Mag Dich Sehr",
+    "tr": "Sizden çok hoşlandım"
+  },
+  {
+    "de": "Ich Mag Dich Auch",
+    "tr": "Ben De Sizden hoşlandım"
+  },
+  {
+    "de": "Möchten Sie Mit Mir Essen?",
+    "tr": "Benimle yemeğe çıkar mısınız?"
+  },
+  {
+    "de": "Ja",
+    "tr": "Evet"
+  },
+  {
+    "de": "Nein",
+    "tr": "Hayır"
+  },
+  {
+    "de": "Okey / alles klar ",
+    "tr": "Tamam"
+  },
+  {
+    "de": "Entschuldigung",
+    "tr": "Özür dilerim"
+  },
+  {
+    "de": "Bitte",
+    "tr": "Lütfen"
+  },
+  {
+    "de": "Danke",
+    "tr": "Teşekkür ederim"
+  },
+  {
+    "de": "Bitte schön",
+    "tr": "Rica ederim"
+  },
+  {
+    "de": "Gern geschehen",
+    "tr": "Bir şey değil"
+  },
+  {
+    "de": "Kein Problem",
+    "tr": "Sorun değil"
+  },
+  {
+    "de": "Viel Glück",
+    "tr": "İyi şanslar"
+  },
+  {
+    "de": "Alles Gute",
+    "tr": "Her şey gönlünüzce olsun"
+  },
+  {
+    "de": "Gute Reise",
+    "tr": "İyi yolculuklar"
+  },
+  {
+    "de": "Guten Appetit",
+    "tr": "Afiyet olsun"
+  },
+  {
+    "de": "Prost",
+    "tr": "Şerefe"
+  },
+  {
+    "de": "Gesundheit",
+    "tr": "Çok yaşa"
+  },
+  {
+    "de": "Gute Besserung",
+    "tr": "Geçmiş olsun"
+  },
+  {
+    "de": "Herzlichen Glückwunsch",
+    "tr": "Tebrikler"
+  },
+  {
+    "de": "Frohe Weihnachten",
+    "tr": "Mutlu Noeller"
+  },
+  {
+    "de": "Frohes Neues Jahr",
+    "tr": "Mutlu yıllar"
+  },
+  {
+    "de": "Willkommen",
+    "tr": "Hoş geldiniz"
+  },
+  {
+    "de": "Tschüss",
+    "tr": "Hoşça kalın"
+  },
+  {
+    "de": "Bis später",
+    "tr": "Sonra görüşürüz"
+  },
+  {
+    "de": "Bis gleich",
+    "tr": "Birazdan görüşürüz"
+  },
+  {
+    "de": "Bis morgen",
+    "tr": "Yarın görüşürüz"
+  },
+  {
+    "de": "Auf bald",
+    "tr": "Yakında görüşürüz"
+  },
+  {
+    "de": "Mach's gut",
+    "tr": "Kendine iyi bak"
+  },
+  {
+    "de": "Pass auf dich auf",
+    "tr": "Kendine dikkat et"
+  },
+  {
+    "de": "Viel Erfolg",
+    "tr": "Başarılar"
+  },
+  {
+    "de": "Viel Spaß",
+    "tr": "İyi eğlenceler"
+  },
+  {
+    "de": "Gute Nacht",
+    "tr": "İyi geceler"
+  },
+  {
+    "de": "Schlaf gut",
+    "tr": "İyi uykular"
+  },
+  {
+    "de": "Träum schön",
+    "tr": "Güzel rüyalar"
+  },
+  {
+    "de": "Bis dann",
+    "tr": "Görüşürüz"
+  }
+]

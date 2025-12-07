@@ -1,0 +1,10 @@
+[
+  { "de": "Markt", "tr": "Pazar" },
+  { "de": "Preis", "tr": "Fiyat" },
+  { "de": "Gemuse", "tr": "Sebze" },
+  { "de": "Obst", "tr": "Meyve" },
+  { "de": "Tasche", "tr": "Canta" },
+  { "de": "Kasse", "tr": "Kasa" },
+  { "de": "Rabatt", "tr": "Indirim" },
+  { "de": "Frisch", "tr": "Taze" }
+]

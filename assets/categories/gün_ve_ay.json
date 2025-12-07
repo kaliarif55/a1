@@ -1,0 +1,126 @@
+[
+  {
+    "de": "Montag",
+    "tr": "Pazartesi"
+  },
+  {
+    "de": "Dienstag",
+    "tr": "Salı"
+  },
+  {
+    "de": "Mittwoch",
+    "tr": "Çarşamba"
+  },
+  {
+    "de": "Donnerstag",
+    "tr": "Perşembe"
+  },
+  {
+    "de": "Freitag",
+    "tr": "Cuma"
+  },
+  {
+    "de": "Samstag",
+    "tr": "Cumartesi"
+  },
+  {
+    "de": "Sonntag",
+    "tr": "Pazar"
+  },
+  {
+    "de": "Januar",
+    "tr": "Ocak"
+  },
+  {
+    "de": "Februar",
+    "tr": "Şubat"
+  },
+  {
+    "de": "März",
+    "tr": "Mart"
+  },
+  {
+    "de": "April",
+    "tr": "Nisan"
+  },
+  {
+    "de": "Kann",
+    "tr": "Mayıs"
+  },
+  {
+    "de": "Juni",
+    "tr": "Haziran"
+  },
+  {
+    "de": "Juli",
+    "tr": "Temmuz"
+  },
+  {
+    "de": "August",
+    "tr": "Ağustos"
+  },
+  {
+    "de": "September",
+    "tr": "Eylül"
+  },
+  {
+    "de": "Oktober",
+    "tr": "Ekim"
+  },
+  {
+    "de": "November",
+    "tr": "Kasım"
+  },
+  {
+    "de": "Dezember",
+    "tr": "Aralık"
+  },
+  {
+    "de": "In Dieser Woche",
+    "tr": "Bu hafta"
+  },
+  {
+    "de": "Nächste",
+    "tr": "Woche Gelecek hafta"
+  },
+  {
+    "de": "Nach Zwei Wochen",
+    "tr": "İki hafta sonra"
+  },
+  {
+    "de": "Vor Drei Wochen",
+    "tr": "Üç hafta önce"
+  },
+  {
+    "de": "Diesen Monat",
+    "tr": "Bu ay"
+  },
+  {
+    "de": "Im Vergangenen Monat",
+    "tr": "Geçen ay"
+  },
+  {
+    "de": "Nächsten",
+    "tr": "Monat Gelecek ay"
+  },
+  {
+    "de": "Nach Fünf Monaten 5 Ay",
+    "tr": "sonra"
+  },
+  {
+    "de": "Dieses Jahr",
+    "tr": "Bu yıl"
+  },
+  {
+    "de": "Vergangenes Jahr",
+    "tr": "Geçen yıl"
+  },
+  {
+    "de": "Nächstes Jahr Gelecek",
+    "tr": "yıl"
+  },
+  {
+    "de": "Nach Vier Jahren",
+    "tr": "Dört yıl sonra"
+  }
+]

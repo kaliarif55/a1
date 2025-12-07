@@ -1,0 +1,10 @@
+[
+  { "de": "Flughafen", "tr": "Havalimani" },
+  { "de": "Ticket", "tr": "Bilet" },
+  { "de": "Gepack", "tr": "Bagaj" },
+  { "de": "Pass", "tr": "Pasaport" },
+  { "de": "Flug", "tr": "Ucus" },
+  { "de": "Reise", "tr": "Seyahat" },
+  { "de": "Karte", "tr": "Harita" },
+  { "de": "Hotel", "tr": "Otel" }
+]

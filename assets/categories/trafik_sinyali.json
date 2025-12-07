@@ -1,0 +1,110 @@
+[
+  {
+    "de": "Achten Sie auf das Auto / Vorsicht, Auto!",
+    "tr": "Arabaya dikkat"
+  },
+  {
+    "de": "Kein Eingang",
+    "tr": "Girilmez"
+  },
+  {
+    "de": "Kein Linksabbiegen",
+    "tr": "Sola dönülmez"
+  },
+  {
+    "de": "Kein Rechtsabbiegen",
+    "tr": "Sağa dönülmez"
+  },
+  {
+    "de": "Haltverbot / Kein Halten",
+    "tr": "Durmak yasak"
+  },
+  {
+    "de": "Geschwindigkeitsbegrenzung 100 km/h",
+    "tr": "Hız sınırı 100 km"
+  },
+  {
+    "de": "Bushaltestelle",
+    "tr": "Otobüs durağı"
+  },
+  {
+    "de": "Busfahrplan",
+    "tr": "Otobüs tarifesi"
+  },
+  {
+    "de": "Taxistand",
+    "tr": "Taksi durağı"
+  },
+  {
+    "de": "Ampeln",
+    "tr": "Trafik ışıkları"
+  },
+  {
+    "de": "Halt",
+    "tr": "Dur"
+  },
+  {
+    "de": "Langsamer fahren",
+    "tr": "Yavaşla"
+  },
+  {
+    "de": "Kein Eingang",
+    "tr": "Girilmez"
+  },
+  {
+    "de": "Verkehrspolizei",
+    "tr": "Trafik polisi"
+  },
+  {
+    "de": "Parken verboten",
+    "tr": "Park yapılmaz"
+  },
+  {
+    "de": "Kurzzeitparken",
+    "tr": "Kısa süreli otopark"
+  },
+  {
+    "de": "Arbeiten auf der Straße",
+    "tr": "Yolda çalışma var"
+  },
+  {
+    "de": "Straße gesperrt",
+    "tr": "Yol kapalı"
+  },
+  {
+    "de": "Schulschluss",
+    "tr": "Okul çıkışı"
+  },
+  {
+    "de": "Rutschige Straße bei Regen",
+    "tr": "Yağmurda kaygan yol"
+  },
+  {
+    "de": "Ringstraße / Autobahnzufahrt",
+    "tr": "Çevreyolu çıkışı"
+  },
+  {
+    "de": "Brücke",
+    "tr": "Köprü"
+  },
+  {
+    "de": "Bach",
+    "tr": "Dere"
+  },
+  {
+    "de": "Fluss",
+    "tr": "Nehir"
+  },
+  {
+    "de": "Tunnel",
+    "tr": "Tünel"
+  },
+  {
+    "de": "Überführung",
+    "tr": "Üst geçit"
+  },
+  {
+    "de": "Unterführung",
+    "tr": "Alt geçit"
+  }
+]

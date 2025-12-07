@@ -1,0 +1,30 @@
+[
+  {
+    "de": "Für welche Vorstellung möchten Sie ein Ticket?",
+    "tr": "Hangi seans için bilet istersiniz?"
+  },
+  {
+    "de": "Heute haben wir zwei Vorstellungen.",
+    "tr": "Bugün iki seansımız var."
+  },
+  {
+    "de": "Hier ist Ihr Ticket für die zweite Vorstellung.",
+    "tr": "İkinci seans için biletiniz buyurun."
+  },
+  {
+    "de": "Welche Plätze bevorzugen Sie?",
+    "tr": "Hangi koltukları tercih edersiniz?"
+  },
+  {
+    "de": "Der Fahrpreis für zwei Personen beträgt 20 Türkische Lira.",
+    "tr": "İki kişilik biletin fiyatı 20 TL’dir."
+  },
+  {
+    "de": "Das Stück beginnt in 20 Minuten.",
+    "tr": "Oyun 20 dakika sonra başlayacak."
+  },
+  {
+    "de": "Das Stück hat zwei Akte.",
+    "tr": "Oyun iki perdeliktir."
+  }
+]

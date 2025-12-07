@@ -1,0 +1,34 @@
+[
+  { "de": "Zeitung", "tr": "Gazete" },
+  { "de": "Monatsmagazin", "tr": "Aylık dergi" },
+  { "de": "Hauszeitschriften", "tr": "Ev dergileri" },
+  { "de": "Sportmagazine", "tr": "Spor dergileri" },
+  { "de": "Frauenzeitschriften", "tr": "Kadın dergileri" },
+  { "de": "Männerzeitschriften", "tr": "Erkek dergileri" },
+  { "de": "Designmagazine", "tr": "Tasarım dergileri" },
+
+  { "de": "Wöchentlich", "tr": "Haftalık" },
+
+  { "de": "Roman", "tr": "Roman" },
+  { "de": "Stadtführer", "tr": "Şehir rehberi" },
+  { "de": "Stadtkarte", "tr": "Şehir haritası" },
+
+  { "de": "Wörterbuch", "tr": "Sözlük" },
+
+  { "de": "Kindergeschichtenbücher", "tr": "Çocuk hikâye kitapları" },
+  { "de": "Malbücher Für Kinder", "tr": "Çocuk boyama kitapları" },
+
+  { "de": "Kartenpost", "tr": "Kartpostal" },
+
+  { "de": "Notizbuch", "tr": "Defter" },
+  { "de": "Kugelschreiber", "tr": "Tükenmez kalem" },
+
+  { "de": "Musik-CD", "tr": "Müzik CD’si" },
+  { "de": "DVD", "tr": "DVD" },
+  { "de": "VCD", "tr": "VCD" },
+
+  { "de": "Karikatur", "tr": "Karikatür / Çizgi hikâye" },
+
+  { "de": "Abenteuerfilm", "tr": "Macera filmi" },
+  { "de": "Dokumentation", "tr": "Belgesel film" }
+]

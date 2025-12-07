@@ -1,0 +1,142 @@
+[
+  {
+    "de": "Wohin möchtest du gehen?",
+    "tr": "Nereye gitmek istiyorsunuz?"
+  },
+  {
+    "de": "Sie sollten diesem Weg zum Großen Basar folgen.",
+    "tr": "Kapalı Çarşı için bu yolu takip etmelisiniz."
+  },
+  {
+    "de": "Gehen Sie die erste Straße rechts und dann geradeaus. Es ist die zweite Straße links.",
+    "tr": "İlk sağ sokaktan girin, düz gidin, soldaki ikinci sokak."
+  },
+  {
+    "de": "Nebenan",
+    "tr": "Yanında"
+  },
+  {
+    "de": "Auf der rechten Seite",
+    "tr": "Sağında"
+  },
+  {
+    "de": "Links",
+    "tr": "Solunda"
+  },
+  {
+    "de": "Auf",
+    "tr": "Üstünde"
+  },
+  {
+    "de": "Unter",
+    "tr": "Altında"
+  },
+  {
+    "de": "Gegenüber",
+    "tr": "Karşısında"
+  },
+  {
+    "de": "Gehen Sie direkt weiter.",
+    "tr": "Düz devam ediniz."
+  },
+  {
+    "de": "Die erste rechts",
+    "tr": "İlk sağ"
+  },
+  {
+    "de": "Die erste links",
+    "tr": "İlk sol"
+  },
+  {
+    "de": "Nimm die zweite rechts.",
+    "tr": "İkinci sağdan dönünüz."
+  },
+  {
+    "de": "Biege an der zweiten links ab.",
+    "tr": "İkinci soldan dönünüz."
+  },
+  {
+    "de": "Die erste Straße",
+    "tr": "İlk sokak"
+  },
+  {
+    "de": "Die zweite Straße",
+    "tr": "İkinci sokak"
+  },
+  {
+    "de": "Straße",
+    "tr": "Cadde"
+  },
+  {
+    "de": "Kreuzung",
+    "tr": "Kavşak"
+  },
+  {
+    "de": "Gasse",
+    "tr": "Sokak"
+  },
+  {
+    "de": "Ringstraße / Autobahn",
+    "tr": "Çevreyolu"
+  },
+  {
+    "de": "Küstenweg",
+    "tr": "Sahil yolu"
+  },
+  {
+    "de": "Einbahnstraße",
+    "tr": "Tek yönlü yol"
+  },
+  {
+    "de": "Zweibahnstraße",
+    "tr": "Gidiş-geliş yol"
+  },
+  {
+    "de": "Tunnel",
+    "tr": "Tünel"
+  },
+  {
+    "de": "Bezirk",
+    "tr": "Semt"
+  },
+  {
+    "de": "Stadt",
+    "tr": "İl"
+  },
+  {
+    "de": "Stadt / Dorf",
+    "tr": "İlçe"
+  },
+  {
+    "de": "Wagen",
+    "tr": "Araba"
+  },
+  {
+    "de": "Taxi",
+    "tr": "Taksi"
+  },
+  {
+    "de": "Bus",
+    "tr": "Otobüs"
+  },
+  {
+    "de": "Bushaltestelle",
+    "tr": "Otobüs durağı"
+  },
+  {
+    "de": "U-Bahn",
+    "tr": "Metro"
+  },
+  {
+    "de": "Straßenbahn",
+    "tr": "Tramvay"
+  },
+  {
+    "de": "LKW",
+    "tr": "Kamyon"
+  },
+  {
+    "de": "Lieferwagen",
+    "tr": "Kamyonet"
+  }
+]

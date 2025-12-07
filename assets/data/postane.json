@@ -1,0 +1,90 @@
+[
+  {
+    "de": "In welches Land senden Sie Ihre Karte per Post?",
+    "tr": "Kartpostalınızı hangi ülkeye göndereceksiniz?"
+  },
+  {
+    "de": "Die Briefmarkengebühr für Europa beträgt 15 Türkische Lira.",
+    "tr": "Avrupa için pul ücreti 15 TL’dir."
+  },
+  {
+    "de": "Möchten Sie es mit dem Flugzeug senden?",
+    "tr": "Uçakla mı göndermek istiyorsunuz?"
+  },
+  {
+    "de": "Es kommt in ungefähr einer Woche an.",
+    "tr": "Yaklaşık 1 haftada adrese ulaşır."
+  },
+  {
+    "de": "Für ein 2-kg-Paket müssen Sie 20 Türkische Lira bezahlen.",
+    "tr": "2 kiloluk paket için 20 TL ödemeniz gerekir."
+  },
+  {
+    "de": "Möchten Sie eine Zahlungsanweisung senden?",
+    "tr": "Havale mi göndermek istiyorsunuz?"
+  },
+  {
+    "de": "Füllen Sie bitte dieses Formular aus.",
+    "tr": "Lütfen bu formu doldurunuz."
+  },
+  {
+    "de": "Die Gebühr für das Senden von Geld beträgt 3 Türkische Lira.",
+    "tr": "Para gönderme ücreti 3 TL’dir."
+  },
+  {
+    "de": "Kann ich den Fahrpreis bekommen?",
+    "tr": "Ücreti alabilir miyim?"
+  },
+  {
+    "de": "Ihre Zahlungsanweisung wurde gesendet.",
+    "tr": "Havaleniz gönderildi."
+  },
+  {
+    "de": "Ihre Zahlungsanweisung ist angekommen.",
+    "tr": "Havaleniz geldi."
+  },
+  {
+    "de": "Kann ich Ihren Personalausweis bekommen?",
+    "tr": "Kimliğinizi alabilir miyim?"
+  },
+  {
+    "de": "Hier ist Ihr Geld.",
+    "tr": "Buyurun paranız."
+  },
+  {
+    "de": "Sie können Ihre Telefonrechnung bezahlen.",
+    "tr": "Telefon faturanızı ödeyebilirsiniz."
+  },
+  {
+    "de": "Sie können Ihre Kreditkartenschulden bezahlen.",
+    "tr": "Kredi kartı ödemenizi yapabilirsiniz."
+  },
+  {
+    "de": "Kabelfernsehen",
+    "tr": "Kablolu TV"
+  },
+  {
+    "de": "ADSL",
+    "tr": "ADSL"
+  },
+  {
+    "de": "Handynummer",
+    "tr": "Cep telefonu faturası"
+  },
+  {
+    "de": "Wasserrechnung",
+    "tr": "Su faturası"
+  },
+  {
+    "de": "Stromrechnung",
+    "tr": "Elektrik faturası"
+  },
+  {
+    "de": "Kreditkarten-Kontoauszug",
+    "tr": "Kredi kartı ekstresi"
+  },
+  {
+    "de": "Brief",
+    "tr": "Mektup"
+  }
+]

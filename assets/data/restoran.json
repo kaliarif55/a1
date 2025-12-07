@@ -1,0 +1,330 @@
+[
+  {
+    "de": "Für wie viele Personen möchten Sie einen Tisch?",
+    "tr": "Kaç kişilik bir masa istersiniz?"
+  },
+  {
+    "de": "Möchten Sie einen Platz am Fenster?",
+    "tr": "Cam kenarı ister misiniz?"
+  },
+  {
+    "de": "Ihr Tisch für vier ist fertig.",
+    "tr": "Dört kişilik masanız hazır."
+  },
+  {
+    "de": "Hier ist das Menü.",
+    "tr": "Buyrun menümüz."
+  },
+  {
+    "de": "Hier ist die Getränkekarte.",
+    "tr": "İçecek menümüz."
+  },
+  {
+    "de": "Dessertkarte",
+    "tr": "Tatlı menüsü"
+  },
+  {
+    "de": "Haben Sie Ihre Bestellung aufgegeben?",
+    "tr": "Sipariş verdiniz mi?"
+  },
+  {
+    "de": "Was möchten Sie als Aperitif?",
+    "tr": "Aperatif olarak ne arzu edersiniz?"
+  },
+  {
+    "de": "Womit möchten Sie anfangen?",
+    "tr": "Başlangıç için ne arzu edersiniz?"
+  },
+  {
+    "de": "Bevorzugen Sie zum Hauptgericht Fisch oder Fleisch?",
+    "tr": "Ana yemekte balık mı et mi tercih edersiniz?"
+  },
+  {
+    "de": "Möchten Sie den Fisch gegrillt oder gebraten?",
+    "tr": "Balığınızı ızgara mı, tava mı istersiniz?"
+  },
+  {
+    "de": "Wie möchten Sie das Fleisch gekocht?",
+    "tr": "Etinizi nasıl pişmiş istersiniz?"
+  },
+  {
+    "de": "Soll das Fleisch gut, medium oder wenig gekocht sein?",
+    "tr": "Etinizi iyi, orta veya az pişmiş mi istersiniz?"
+  },
+  {
+    "de": "Was möchten Sie trinken?",
+    "tr": "Ne içmek istersiniz?"
+  },
+  {
+    "de": "Möchten Sie Fruchtsaft oder Mineralwasser?",
+    "tr": "Meyve suyu veya maden suyu alır mıydınız?"
+  },
+  {
+    "de": "Möchten Sie Rot- oder Weißwein?",
+    "tr": "Kırmızı mı yoksa beyaz şarap mı alırsınız?"
+  },
+  {
+    "de": "Möchten Sie Nachtisch?",
+    "tr": "Tatlı alır mısınız?"
+  },
+  {
+    "de": "Möchten Sie Tee oder Kaffee?",
+    "tr": "Çay mı kahve mi alırsınız?"
+  },
+  {
+    "de": "Möchten Sie Eis?",
+    "tr": "Dondurma alır mısınız?"
+  },
+  {
+    "de": "Ich bringe Ihre Rechnung.",
+    "tr": "Hesabınızı getiriyorum."
+  },
+  {
+    "de": "Bitte geben Sie Ihren Kartencode ein.",
+    "tr": "Kart şifrenizi tuşlayınız."
+  },
+  {
+    "de": "Guten Appetit.",
+    "tr": "Afiyet olsun."
+  },
+  {
+    "de": "Salat",
+    "tr": "Salata"
+  },
+  {
+    "de": "Suppe",
+    "tr": "Çorba"
+  },
+  {
+    "de": "Vorspeisen / Aperitives",
+    "tr": "Başlangıçlar / Aperatifler"
+  },
+  {
+    "de": "Hauptgericht",
+    "tr": "Ana yemek"
+  },
+  {
+    "de": "Fleischgerichte",
+    "tr": "Et yemekleri"
+  },
+  {
+    "de": "Fischgerichte",
+    "tr": "Balık yemekleri"
+  },
+  {
+    "de": "Hühnchengerichte",
+    "tr": "Tavuk yemekleri"
+  },
+  {
+    "de": "Kebaps",
+    "tr": "Kebaplar"
+  },
+  {
+    "de": "Pizzas",
+    "tr": "Pizzalar"
+  },
+  {
+    "de": "Snacks",
+    "tr": "Ara sıcaklar"
+  },
+  {
+    "de": "Nachspeisen",
+    "tr": "Tatlılar"
+  },
+  {
+    "de": "Getränke ohne Alkohol",
+    "tr": "Alkolsüz içecekler"
+  },
+  {
+    "de": "Getränke mit Alkohol",
+    "tr": "Alkollü içecekler"
+  },
+  {
+    "de": "Kalte Getränke",
+    "tr": "Soğuk içecekler"
+  },
+  {
+    "de": "Heiße Getränke",
+    "tr": "Sıcak içecekler"
+  },
+  {
+    "de": "Joghurt",
+    "tr": "Yoğurt"
+  },
+  {
+    "de": "Apfel",
+    "tr": "Elma"
+  },
+  {
+    "de": "Birne",
+    "tr": "Armut"
+  },
+  {
+    "de": "Wassermelone",
+    "tr": "Karpuz"
+  },
+  {
+    "de": "Melone",
+    "tr": "Kavun"
+  },
+  {
+    "de": "Traube",
+    "tr": "Üzüm"
+  },
+  {
+    "de": "Grapefruit",
+    "tr": "Greyfurt"
+  },
+  {
+    "de": "Zucker",
+    "tr": "Şeker"
+  },
+  {
+    "de": "Milch",
+    "tr": "Süt"
+  },
+  {
+    "de": "Olivenöl",
+    "tr": "Zeytinyağı"
+  },
+  {
+    "de": "Essig",
+    "tr": "Sirke"
+  },
+  {
+    "de": "Zitrone",
+    "tr": "Limon"
+  },
+  {
+    "de": "Salz",
+    "tr": "Tuz"
+  },
+  {
+    "de": "Schwarzer Pfeffer",
+    "tr": "Karabiber"
+  },
+  {
+    "de": "Roter Pfeffer",
+    "tr": "Kırmızı biber"
+  },
+  {
+    "de": "Bier",
+    "tr": "Bira"
+  },
+  {
+    "de": "Ein Liter Wein",
+    "tr": "1 litre şarap"
+  },
+  {
+    "de": "35 ccm Wein",
+    "tr": "35 ml şarap"
+  },
+  {
+    "de": "Hauswein",
+    "tr": "Ev şarabı"
+  },
+  {
+    "de": "Schaumwein",
+    "tr": "Köpüklü şarap"
+  },
+  {
+    "de": "Whiskey",
+    "tr": "Viski"
+  },
+  {
+    "de": "Brandy",
+    "tr": "Konyak"
+  },
+  {
+    "de": "Raki",
+    "tr": "Rakı"
+  },
+  {
+    "de": "Cola",
+    "tr": "Kola"
+  },
+  {
+    "de": "Tee",
+    "tr": "Çay"
+  },
+  {
+    "de": "Kaffee",
+    "tr": "Kahve"
+  },
+  {
+    "de": "Kaffee mit Milch",
+    "tr": "Sütlü kahve"
+  },
+  {
+    "de": "Mineralwasser",
+    "tr": "Maden suyu"
+  },
+  {
+    "de": "Fruchtsaft",
+    "tr": "Meyve suyu"
+  },
+  {
+    "de": "Unser Restaurant ist von 12:00 bis 24:00 Uhr geöffnet.",
+    "tr": "Restaurantımız 12:00-24:00 saatlerinde açıktır."
+  },
+  {
+    "de": "Wir haben Lieferservice.",
+    "tr": "Evlere paket servisimiz vardır."
+  },
+  {
+    "de": "Unsere Liefernummer ist 444 0 000.",
+    "tr": "Paket servisi için telefonumuz 444 0 000’dır."
+  },
+  {
+    "de": "Frühstück",
+    "tr": "Kahvaltı"
+  },
+  {
+    "de": "Mittagessen",
+    "tr": "Öğle yemeği"
+  },
+  {
+    "de": "Abendessen",
+    "tr": "Akşam yemeği"
+  },
+  {
+    "de": "Stuhl",
+    "tr": "Sandalye"
+  },
+  {
+    "de": "Tisch",
+    "tr": "Masa"
+  },
+  {
+    "de": "Serviette",
+    "tr": "Peçete"
+  },
+  {
+    "de": "Glas",
+    "tr": "Bardak"
+  },
+  {
+    "de": "Teller",
+    "tr": "Tabak"
+  },
+  {
+    "de": "Gabel",
+    "tr": "Çatal"
+  },
+  {
+    "de": "Messer",
+    "tr": "Bıçak"
+  },
+  {
+    "de": "Löffel",
+    "tr": "Kaşık"
+  },
+  {
+    "de": "Dessertlöffel",
+    "tr": "Tatlı kaşığı"
+  },
+  {
+    "de": "Teelöffel",
+    "tr": "Çay kaşığı"
+  }
+]
