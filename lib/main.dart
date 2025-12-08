@@ -17,6 +17,8 @@ import 'screens/reflex_quiz/reflex_quiz_result.dart';
 import 'screens/learning_methods/flashcards_screen.dart';
 import 'screens/learning_methods/writing_practice_screen.dart';
 import 'screens/learning_methods/listening_practice_screen.dart';
+import 'screens/word_study/word_study_category_screen.dart';
+import 'screens/word_study/word_study_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -114,6 +116,18 @@ class MyApp extends StatelessWidget {
             final categoryName = args['categoryName'] as String? ?? '';
             return MaterialPageRoute(
               builder: (_) => ListeningPracticeScreen(categoryName: categoryName),
+            );
+          case '/word-study-categories':
+            return MaterialPageRoute(
+              builder: (_) => const WordStudyCategoryScreen(),
+            );
+          case '/word-study':
+            final args = settings.arguments as Map<String, dynamic>? ?? {};
+            return MaterialPageRoute(
+              builder: (_) => WordStudyScreen(
+                categoryKey: args['categoryKey'] as String? ?? '',
+                title: args['title'] as String? ?? '',
+              ),
             );
           default:
             return null;

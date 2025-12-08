@@ -148,6 +148,18 @@ class HomeScreen extends StatelessWidget {
                             Navigator.pushNamed(context, StatsScreen.routeName);
                           },
                         ),
+                        MenuCard(
+                          title: 'Kelime Çalış',
+                          icon: Icons.book,
+                          gradient: const LinearGradient(
+                            colors: [Color(0xFFE91E63), Color(0xFFF06292)],
+                            begin: Alignment.topLeft,
+                            end: Alignment.bottomRight,
+                          ),
+                          onTap: () {
+                            Navigator.pushNamed(context, '/word-study-categories');
+                          },
+                        ),
                       ],
                     ),
 
